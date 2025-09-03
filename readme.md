@@ -1,18 +1,18 @@
-🧠 Flexbox Zombies & 🐸 Flexbox Froggy
+## 🧠 Flexbox Zombies & 🐸 Flexbox Froggy
 
-📌 Descripción del Proyecto
+## 📌 Descripción del Proyecto
 Flexbox Zombies y Flexbox Froggy son dos juegos educativos interactivos diseñados para enseñar CSS Flexbox, una poderosa herramienta para la maquetación web. A través de niveles progresivos, los jugadores resuelven desafíos reales utilizando código CSS mientras se enfrentan a zombies o ayudan a ranas a llegar a sus hojas de lirio.
 
 Estas plataformas convierten el aprendizaje de Flexbox en una experiencia lúdica y efectiva para desarrolladores principiantes y experimentados.
 
-✨ Características Destacadas
+## ✨ Características Destacadas
 🎮 Aprendizaje interactivo mediante juegos.
 📈 Niveles progresivos con desafíos basados en Flexbox.
 🧠 Refuerzo visual y lógico de conceptos clave.
 🌐 Basado en navegador, sin necesidad de instalación.
 💡 Conceptos explicados de forma clara y divertida.
 
-🎯 Objetivo
+## 🎯 Objetivo
 El objetivo principal es dominar las propiedades de CSS Flexbox como:
 
 flex-direction
@@ -28,10 +28,11 @@ align-content
 flex shorthand
 Todo esto mediante el uso práctico en escenarios gamificados, facilitando el aprendizaje por medio de la experiencia.
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 HTML5
 CSS3
-🗂️ Estructura del Sistema
+
+## 🗂️ Estructura del Sistema
 Ambos juegos están diseñados para ejecutarse directamente desde el navegador. Su estructura general incluye:
 
 Interfaz gráfica basada en ilustraciones temáticas.
